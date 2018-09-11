@@ -1,0 +1,2 @@
+# ObjCSharedDataSample
+Objective-Cの画面毎のデータ保持のサンプル
